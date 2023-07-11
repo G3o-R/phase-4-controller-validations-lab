@@ -58,3 +58,5 @@ Add validations to `Post` such that...
    author is invalid
 2. Change `PostsController#update` to send back the error messages if the
    updated post is invalid
+
+https://github.com/G3o-R/phase-4-controller-validations-lab
